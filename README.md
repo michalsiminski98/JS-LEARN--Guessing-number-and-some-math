@@ -1,5 +1,9 @@
 # Guessing-number-and-some-math
 
+First you have to draw a number then you'll see advice about the looking number. After guess the number you have to press the reset button.  
+
+Live server: https://michalsiminski98.github.io/JS-LEARN--Guessing-number-and-some-math/
+
 ## Draw function
 
 Main function draw number from 0 to 100.  
